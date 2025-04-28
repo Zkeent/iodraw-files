@@ -147,10 +147,7 @@
           <mxGeometry y="830" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-60" value="修改agreeReceive" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-250" y="850" width="210" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UhuYSRqc2znsGfLHhufJ-60" target="UhuYSRqc2znsGfLHhufJ-60">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-250" y="829" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
