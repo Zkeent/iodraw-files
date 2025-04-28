@@ -21,7 +21,7 @@
         <mxCell id="t5gQTDSdkibUl3x4KBnu-2" value="分诊中心" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="79" y="58" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t5gQTDSdkibUl3x4KBnu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-5" target="UhuYSRqc2znsGfLHhufJ-43" edge="1">
+        <mxCell id="t5gQTDSdkibUl3x4KBnu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UhuYSRqc2znsGfLHhufJ-55" target="UhuYSRqc2znsGfLHhufJ-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-5" target="UhuYSRqc2znsGfLHhufJ-3">
@@ -137,11 +137,17 @@
         <mxCell id="UhuYSRqc2znsGfLHhufJ-54" value="修改submitTriage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="5" y="320" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-55" value="修改confirmVisit" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="330" width="210" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-56" value="修改confirmDischarge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="700" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-5" target="UhuYSRqc2znsGfLHhufJ-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="386" as="sourcePoint" />
+            <mxPoint x="484" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-55" value="修改confirmVisit" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="430" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
