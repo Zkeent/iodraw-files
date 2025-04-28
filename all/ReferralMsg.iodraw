@@ -54,7 +54,7 @@
             <mxPoint x="720" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5gQTDSdkibUl3x4KBnu-31" value="患者前往上级就诊" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="t5gQTDSdkibUl3x4KBnu-31" value="患者前往上级就诊&lt;div&gt;&lt;div&gt;业务节点6：待接诊提醒&lt;/div&gt;&lt;div&gt;状态：上转待接诊&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="650" y="270" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-37" target="t5gQTDSdkibUl3x4KBnu-39" edge="1">
