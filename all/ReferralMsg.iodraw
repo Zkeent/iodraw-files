@@ -131,6 +131,9 @@
             <mxPoint x="340" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-53" value="修改submitApply：保存信息并发送tips" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="188" width="210" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
