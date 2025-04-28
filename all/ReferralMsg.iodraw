@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2140" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2736" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -155,17 +155,14 @@
         <mxCell id="UhuYSRqc2znsGfLHhufJ-64" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Georgia;" vertex="1" parent="UhuYSRqc2znsGfLHhufJ-63">
           <mxGeometry x="183" y="1" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-65" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="392" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-66" value="Q：什么是上级主动下转？&lt;div&gt;Q：几乎都是修改原有接口？修改的接口与业务节点是否对应？&lt;/div&gt;&lt;div&gt;Q：CMC是要引入feign客户端吗？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="899.5" y="100" width="371" height="60" as="geometry" />
+          <mxGeometry x="-520.5" y="23" width="371" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-67" value="&lt;ul&gt;&lt;li&gt;pkid主键&lt;/li&gt;&lt;li&gt;患者身份证&lt;/li&gt;&lt;li&gt;患者名&lt;/li&gt;&lt;li&gt;申请医院名&lt;/li&gt;&lt;li&gt;申请地区名&lt;/li&gt;&lt;li&gt;就诊医院名&lt;/li&gt;&lt;li&gt;就诊医生名&lt;/li&gt;&lt;li&gt;就诊日期&lt;/li&gt;&lt;li&gt;是否已处理&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="870" y="182" width="170" height="188" as="geometry" />
+          <mxGeometry x="-550" y="105" width="170" height="188" as="geometry" />
         </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-70" value="消息站表结构" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#FF6666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="899.5" y="183" width="210" height="20" as="geometry" />
+          <mxGeometry x="-520.5" y="106" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
