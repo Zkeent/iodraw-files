@@ -27,8 +27,15 @@
         <mxCell id="t5gQTDSdkibUl3x4KBnu-5" value="上转预约成功&lt;div&gt;业务节点6：待接诊提醒&lt;/div&gt;&lt;div&gt;状态：上转待接诊&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="154" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t5gQTDSdkibUl3x4KBnu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-29" target="t5gQTDSdkibUl3x4KBnu-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t5gQTDSdkibUl3x4KBnu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="t5gQTDSdkibUl3x4KBnu-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-100" y="361" />
+              <mxPoint x="290" y="361" />
+              <mxPoint x="290" y="179" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-6" target="t5gQTDSdkibUl3x4KBnu-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
