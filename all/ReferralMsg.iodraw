@@ -158,8 +158,8 @@
         <mxCell id="UhuYSRqc2znsGfLHhufJ-70" value="消息站表结构" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#FF6666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-520.5" y="106" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-71" value="修改submitTriage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="319" y="402" width="210" height="20" as="geometry" />
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-71" value="CMC接收消息站信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="855" y="105" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
