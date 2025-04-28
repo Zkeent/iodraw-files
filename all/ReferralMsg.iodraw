@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="下级医院提交上转&lt;div style=&quot;font-size: 13px;&quot;&gt;业务节点1：待分诊提醒&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;状态：待分诊&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="71" y="190" width="140" height="50" as="geometry" />
+          <mxGeometry x="60" y="190" width="151" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-0" value="下级医院" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="102" y="130" width="100" height="40" as="geometry" />
@@ -41,7 +41,7 @@
         <mxCell id="t5gQTDSdkibUl3x4KBnu-7" value="修改submitApply：保存信息并发送tips" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="52" y="250" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t5gQTDSdkibUl3x4KBnu-23" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;修改pageTriageToDoTask：转诊统计中的待办任务列表仅展示“待分诊”，“待回转”&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;仅展示消息站的最近一条待分诊消息&lt;br style=&quot;font-size: 13px;&quot;&gt;消息站分为：待处理：待分诊/完善回转；已处理&lt;br style=&quot;font-size: 13px;&quot;&gt;上转单中传入上级医院名称/接诊科室/医生&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="t5gQTDSdkibUl3x4KBnu-23" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="309" y="280" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=13;fontFamily=Georgia;" parent="t5gQTDSdkibUl3x4KBnu-23" vertex="1">
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-41" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;业务节点3.分诊中心确认分诊结果&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;状态：分诊确认&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="71" y="410" width="140" height="60" as="geometry" />
+          <mxGeometry x="60" y="410" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-1" value="健管师" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="871" y="130" width="100" height="40" as="geometry" />
