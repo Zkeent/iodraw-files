@@ -33,7 +33,7 @@
         <mxCell id="t5gQTDSdkibUl3x4KBnu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-6" target="t5gQTDSdkibUl3x4KBnu-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t5gQTDSdkibUl3x4KBnu-6" value="“待分诊”加入代办任务列表与消息站待处理+1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="t5gQTDSdkibUl3x4KBnu-6" value="“待分诊”加入代办任务列表与消息站待处理+1&lt;div&gt;&lt;span style=&quot;font-family: helvetica;&quot;&gt;消息站-立即分诊-填写上转单，待处理-1&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="235" y="160" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-7" value="submitApply：保存信息并发送tips" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
