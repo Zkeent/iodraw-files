@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1740" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -24,7 +24,7 @@
         <mxCell id="t5gQTDSdkibUl3x4KBnu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Georgia;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-5" target="UhuYSRqc2znsGfLHhufJ-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-5" target="UhuYSRqc2znsGfLHhufJ-3">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-5" target="UhuYSRqc2znsGfLHhufJ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-5" value="上转预约成功" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -35,13 +35,13 @@
             <mxPoint x="431.5" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5gQTDSdkibUl3x4KBnu-6" value="“待分诊”加入代办任务列表与消息站待处理+1&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-family: helvetica; font-size: 13px;&quot;&gt;消息站-立即分诊-填写上转单，待处理-1&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="t5gQTDSdkibUl3x4KBnu-6" value="“待分诊”加入代办任务列表与消息站待处理+1&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-family: helvetica; font-size: 13px;&quot;&gt;消息站-立即分诊-，待处理-1&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="309" y="190" width="261" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-7" value="修改submitApply：保存信息并发送tips" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="52" y="250" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-29" target="t5gQTDSdkibUl3x4KBnu-41">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-29" target="t5gQTDSdkibUl3x4KBnu-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-29" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;分诊中心分配完成&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=13;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -64,98 +64,98 @@
         <mxCell id="t5gQTDSdkibUl3x4KBnu-37" value="上级医生完成接诊" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="678" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-39" target="UhuYSRqc2znsGfLHhufJ-6">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-39" target="UhuYSRqc2znsGfLHhufJ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-39" value="“待回转”加入待办任务，消息站待处理+1&lt;div style=&quot;font-size: 13px;&quot;&gt;业务节点2：分诊中心&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;完善回转信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;状态：完善回转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="305.25" y="670" width="255.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-41" target="t5gQTDSdkibUl3x4KBnu-5">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t5gQTDSdkibUl3x4KBnu-41" target="t5gQTDSdkibUl3x4KBnu-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-41" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;业务节点3.分诊中心确认分诊结果&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;状态：分诊确认&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="410" width="151" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-1" value="健管师" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-1" value="健管师" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="871" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-3" value="&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;业务节点8：待接诊提醒&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;站内消息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-3" value="&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;业务节点8：待接诊提醒&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;站内消息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="855" y="502" width="155" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UhuYSRqc2znsGfLHhufJ-6" target="UhuYSRqc2znsGfLHhufJ-39">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UhuYSRqc2znsGfLHhufJ-6" target="UhuYSRqc2znsGfLHhufJ-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="211" y="665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UhuYSRqc2znsGfLHhufJ-6" target="UhuYSRqc2znsGfLHhufJ-41">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UhuYSRqc2znsGfLHhufJ-6" target="UhuYSRqc2znsGfLHhufJ-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="921" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-6" value="分诊中心完成回转，消息站待处理-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-6" value="分诊中心完成回转，消息站待处理-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="304.25" y="785" width="255.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-39" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;业务节点4.回转接收提醒&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;状态：接收回转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-39" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;业务节点4.回转接收提醒&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;状态：接收回转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="777" width="151" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-41" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;业务节点9.回转接收提醒&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 13px;&quot;&gt;站内消息&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-41" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Georgia; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; font-family: helvetica; font-size: 13px;&quot;&gt;业务节点9.回转接收提醒&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 13px;&quot;&gt;站内消息&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="854" y="770" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UhuYSRqc2znsGfLHhufJ-43" target="t5gQTDSdkibUl3x4KBnu-31">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UhuYSRqc2znsGfLHhufJ-43" target="t5gQTDSdkibUl3x4KBnu-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-43" value="&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;业务节点6：待接诊提醒&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;状态：上转待接诊&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-43" value="&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;业务节点6：待接诊提醒&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;状态：上转待接诊&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="635" y="502" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-49" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-49" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="272" y="942.909102006392" as="sourcePoint" />
             <mxPoint x="272" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="834.18" y="952.909102006392" as="sourcePoint" />
             <mxPoint x="834.18" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="599" y="943.459102006392" as="sourcePoint" />
             <mxPoint x="599" y="40.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-53" value="修改agreeTriage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-53" value="修改agreeTriage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="71" y="470" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-54" value="修改submitTriage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-54" value="修改submitTriage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="309" y="392" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-55" value="修改confirmVisit" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-55" value="修改confirmVisit" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="635" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-56" value="修改confirmDischarge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-56" value="修改confirmDischarge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="725" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-58" value="修改submitRotation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-58" value="修改submitRotation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="303" y="825" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-60" value="修改agreeReceive" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-60" value="修改agreeReceive" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="71" y="824" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-66" value="Q：什么是上级主动下转？&lt;div style=&quot;font-size: 14px;&quot;&gt;Q：几乎都是修改原有接口？修改的接口与业务节点是否对应？&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Q：CMC是要引入feign客户端吗？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-66" value="Q：什么是上级主动下转？&lt;div style=&quot;font-size: 14px;&quot;&gt;Q：几乎都是修改原有接口？修改的接口与业务节点是否对应？&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Q：CMC是要引入feign客户端吗？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-200" y="15" width="420.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-67" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;pkid主键&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;i业务d&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;患者身份证&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;患者名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;申请医院名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;申请地区名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;（就诊医院名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;预约机构名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;就诊医生名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;就诊日期&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;预约日期）&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;是否已处理&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;创建时间&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;更新时间&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;是否删除&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;删除时间&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-67" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;pkid主键&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;i业务d&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;患者身份证&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;患者名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;申请医院名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;申请地区名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;（就诊医院名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;预约机构名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;就诊医生名&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;就诊日期&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;预约日期）&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;是否已处理&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;创建时间&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;更新时间&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;是否删除&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;删除时间&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-220" y="118" width="170" height="282" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-70" value="消息站表结构" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Georgia;fontColor=#FF6666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-70" value="消息站表结构" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Georgia;fontColor=#FF6666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-190.5" y="98" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-71" value="CMC接收消息站信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-71" value="CMC接收消息站信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="855" y="105" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-72" value="&lt;br style=&quot;color: rgb(181, 115, 157); font-family: Georgia; font-size: 13px;&quot;&gt;&lt;div style=&quot;color: rgb(181, 115, 157); font-family: Georgia; font-size: 13px;&quot;&gt;仅展示消息站的最近一条待分诊消息&lt;br&gt;消息站分为：待处理：待分诊/完善回转；已处理&lt;br&gt;上转单中传入上级医院名称/接诊科室/医生&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-72" value="&lt;br style=&quot;color: rgb(181, 115, 157); font-family: Georgia; font-size: 13px;&quot;&gt;&lt;div style=&quot;color: rgb(181, 115, 157); font-family: Georgia; font-size: 13px;&quot;&gt;仅展示消息站的最近一条待分诊消息&lt;br&gt;消息站分为：待处理：待分诊/完善回转；已处理&lt;br&gt;上转单中传入上级医院名称/接诊科室/医生&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="289.5" y="260" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
