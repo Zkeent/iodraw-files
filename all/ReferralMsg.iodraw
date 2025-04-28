@@ -9,7 +9,7 @@
             <mxPoint x="252" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="下级医院提交上转&lt;div style=&quot;font-size: 13px;&quot;&gt;业务节点1：待分诊提醒&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;状态：待分诊&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="下级医院&lt;span style=&quot;font-family: helvetica;&quot;&gt;填写上转单&lt;/span&gt;提交&lt;div style=&quot;font-size: 13px;&quot;&gt;业务节点1：待分诊提醒&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;状态：待分诊&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="190" width="151" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-0" value="下级医院" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -35,7 +35,7 @@
             <mxPoint x="431.5" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5gQTDSdkibUl3x4KBnu-6" value="“待分诊”加入代办任务列表与消息站待处理+1&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-family: helvetica; font-size: 13px;&quot;&gt;消息站-立即分诊-，待处理-1&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="t5gQTDSdkibUl3x4KBnu-6" value="“待分诊”加入代办任务列表与消息站待处理+1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="309" y="190" width="261" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t5gQTDSdkibUl3x4KBnu-7" value="修改submitApply：保存信息并发送tips" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
