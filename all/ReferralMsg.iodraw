@@ -161,6 +161,9 @@
         <mxCell id="UhuYSRqc2znsGfLHhufJ-71" value="CMC接收消息站信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Georgia;fontColor=#B5739D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="855" y="105" width="210" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="UhuYSRqc2znsGfLHhufJ-72" value="&lt;span style=&quot;color: rgb(181, 115, 157); font-family: Georgia; font-size: 13px; text-align: left;&quot;&gt;修改pageTriageToDoTask：转诊统计中的待办任务列表仅展示“待分诊”，“待回转”&lt;/span&gt;&lt;br style=&quot;color: rgb(181, 115, 157); font-family: Georgia; font-size: 13px; text-align: left;&quot;&gt;&lt;div style=&quot;color: rgb(181, 115, 157); font-family: Georgia; font-size: 13px; text-align: left;&quot;&gt;仅展示消息站的最近一条待分诊消息&lt;br&gt;消息站分为：待处理：待分诊/完善回转；已处理&lt;br&gt;上转单中传入上级医院名称/接诊科室/医生&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="460" width="300" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
