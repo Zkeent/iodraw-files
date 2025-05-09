@@ -129,7 +129,7 @@
           <mxGeometry x="310.5" y="390" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-54" value="修改submitTriage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="482" width="210" height="20" as="geometry" />
+          <mxGeometry x="60" y="472" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-55" value="修改confirmVisit" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="635" width="210" height="20" as="geometry" />
@@ -139,9 +139,6 @@
         </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-58" value="修改submitRotation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="303" y="825" width="210" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="UhuYSRqc2znsGfLHhufJ-60" value="修改agreeReceive" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Georgia;fontColor=#B5739D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="71" y="824" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UhuYSRqc2znsGfLHhufJ-66" value="Q：什么是上级主动下转？&lt;div style=&quot;font-size: 14px;&quot;&gt;Q：几乎都是修改原有接口？修改的接口与业务节点是否对应？&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Q：CMC是要引入feign客户端吗？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-200" y="15" width="420.5" height="60" as="geometry" />
